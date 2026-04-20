@@ -1,13 +1,18 @@
 # RetroVision
 
-Project uploaded from provided Victory-Strategy archive.
+RetroVision is a modern React + TypeScript dashboard project for route analytics, map views, fleet monitoring, alerts, reports and predictions.
 
-This repository has been initialized. The supplied ZIP archive appears to contain a large multi-package project (~111 MB compressed, tens of thousands of files including caches/store data). For a clean push, recommended contents should exclude `.git`, `.local`, package stores, and build artifacts.
+## Features
+- Dashboard analytics
+- Interactive map views
+- Fleet monitoring
+- Alerts & reports
+- Prediction pages
+- Modular React architecture
 
-Suggested folders to commit:
-- artifacts/retro-vision
-- artifacts/api-server/src
-- lib/
-- scripts/src
+## Tech Stack
+React, TypeScript, Vite, Wouter, TanStack Query.
 
-If you'd like, I can also help generate a clean production-ready repo structure next.
+## Run
+npm install
+npm run dev
