@@ -1,9 +1,11 @@
 {
   "name": "retrovision",
   "private": true,
-  "description": "RetroVision project workspace",
+  "version": "1.0.0",
+  "type": "module",
   "scripts": {
-    "dev": "echo configure project",
-    "build": "echo build"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   }
 }
