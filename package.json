@@ -1,0 +1,9 @@
+{
+  "name": "retrovision",
+  "private": true,
+  "description": "RetroVision project workspace",
+  "scripts": {
+    "dev": "echo configure project",
+    "build": "echo build"
+  }
+}
